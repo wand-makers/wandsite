@@ -14,8 +14,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 send a email to mm90432056@gmail.com
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+if you think it is major then dont worry i check my email dayly
+if i dont think it is an vulnerability then i will decline it. 
